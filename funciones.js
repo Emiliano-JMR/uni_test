@@ -22,7 +22,7 @@ function validarPassword(password){
 }//validarPassword
 
 function celsiusAFarenheit (celsius){
-    farenheit= (celsius * 9/5) +32
+    let farenheit= (celsius * 9/5) +32
     return farenheit;
 }//celsiusAFarenheit
 
